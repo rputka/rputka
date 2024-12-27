@@ -1,19 +1,5 @@
 ## 👋 Hi, I'm Ryan
 
-<!--
-**rputka/rputka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Welcome to my GitHub profile! I’m a second-year Computer Science student at the University of Notre Dame gaining hands-on experience as a Software Engineering Intern at an alternative investment firm. I’m currently working on AI initiatives to streamline financial processes and enhance efficiency within investment operations. I am excited to collaborate, learn, and share ideas with developers from all around the world.
 
 ## 🚀 About Me
@@ -29,7 +15,7 @@ Welcome to my GitHub profile! I’m a second-year Computer Science student at th
 - Web Development: Familiarity with HTML and CSS
 - Frameworks & Libraries: Experience with Flask, React, and Langchain
 
-📣 Let's Connect
+## 📣 Let's Connect
 
 - 📧 Email: rputka@nd.edu
 - 💼 LinkedIn: ryanputka
