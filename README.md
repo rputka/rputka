@@ -19,4 +19,4 @@ Welcome to my GitHub profile! I’m a second-year Computer Science student at th
 
 - 📧 Email: rputka@nd.edu
 - 💼 LinkedIn: ryanputka
-- 🌐 Personal Website: ryanputka.com
+- 🌐 Personal Website: [ryanputka.com](https://ryanputka.com)
