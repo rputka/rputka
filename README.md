@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I’m a second-year Computer Science student at th
 - 🎓 Currently pursuing a degree in computer science with a minor in engineering corporate practice
 - 🎯 Aspiring software engineer with a special interest in the finance and healthcare sectors
 - 🤖 AI and machine learning enthusiast
-- 🏈 Avid Cleveland sports fan
 
 ## 🛠️ Tools & Technologies
 
