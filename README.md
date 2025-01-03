@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a second-year Computer Science student at th
 - 🤖 AI and machine learning enthusiast
 - 🏈 Avid Cleveland sports fan
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 
 - Languages: Proficient in Python and C; working knowledge of Java, Javascript, and MATLAB
 - Web Development: Familiarity with HTML and CSS
